@@ -501,12 +501,13 @@ TEMPLATE = r"""
                         <p class="font-semibold">{{ c.contact_company }}</p>
                         <p>{{ c.contact_city }}</p>
                         <p>{{ c.contact_email_label }} :
-                            <a href="mailto:contact@maisonvanillesuisse.ch" class="text-amber-900 underline">
-                                contact@maisonvanillesuisse.ch
+                            <a href="mailto:info@maisonvanille.ch" class="text-amber-900 underline">
+                                info@maisonvanille.ch
                             </a>
                         </p>
                         <p>{{ c.contact_phone_label }} :
-                            <span class="text-stone-800">+41 xx xxx xx xx</span>
+                            <span class="text-stone-800">+41 78 347 92 45 </span> </p>
+                            <span class="text-stone-800">+41 78 347 92 45 </span>
                         </p>
                     </div>
                     <div class="mt-4">
